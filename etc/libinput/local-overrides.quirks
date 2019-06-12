@@ -1,0 +1,9 @@
+[DFinster's Overrides for MacBook Pro 7,1 Apple Touchpad]
+MatchUdevType=touchpad
+MatchName=bcm5974
+MatchDMIModalias=dmi:*svnAppleInc.:pnMacBookPro7,1:*
+AttrTouchSizeRange=150:130
+AttrPalmSizeThreshold=1000
+AttrPressureRange=80:40
+AttrPalmPressureThreshold=300
+AttrThumbPressureThreshold=300
